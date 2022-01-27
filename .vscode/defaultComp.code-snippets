@@ -1,0 +1,17 @@
+{
+
+	"Print to console": {
+		"scope": "javascript",
+		"prefix": "defaultComp",
+		"body": [
+            "import React, { useState } from 'react'",
+            "import { Text, Button } from 'react-native'",
+            "import estilo from './estilo'",
+            "",
+            "export default props => {",
+            "   return ()",
+            "}"
+		],
+		"description": "Default component"
+	}
+}
